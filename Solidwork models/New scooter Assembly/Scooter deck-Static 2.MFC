@@ -1,0 +1,16 @@
+[StartTime]
+Scooter deck-Static 2.MFC=2s
+[SolverState]
+Scooter deck-Static 2.MFC=2
+[MainFrame]
+Scooter deck-Static 2.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMMBAAAAAHCBAAAAAEDDAAAAAKPBAAAAA
+[ShowMin]
+Scooter deck-Static 2.MFC=No
+[SolverType]
+Scooter deck-Static 2.MFC=Linear Analysis
+[StudyType]
+Scooter deck-Static 2.MFC=0
+[StudyName]
+Scooter deck-Static 2.MFC=Static 2
+[Solver]
+Scooter deck-Static 2.MFC=Sparse
