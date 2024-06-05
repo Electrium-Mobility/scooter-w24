@@ -1,0 +1,16 @@
+[StartTime]
+Circular tubing frame (COPY)-Static 3.MFC=3s
+[SolverState]
+Circular tubing frame (COPY)-Static 3.MFC=2
+[MainFrame]
+Circular tubing frame (COPY)-Static 3.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMMBAAAAAHCBAAAAAEDDAAAAAKPBAAAAA
+[ShowMin]
+Circular tubing frame (COPY)-Static 3.MFC=No
+[SolverType]
+Circular tubing frame (COPY)-Static 3.MFC=Linear Analysis
+[StudyType]
+Circular tubing frame (COPY)-Static 3.MFC=0
+[StudyName]
+Circular tubing frame (COPY)-Static 3.MFC=Static 3
+[Solver]
+Circular tubing frame (COPY)-Static 3.MFC=Iterative
